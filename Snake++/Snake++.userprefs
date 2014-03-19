@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SnakeHeadSteering.cs">
+    <Files>
+      <File FileName="..\..\..\Documents\Code\GGJ2014\GGJ2014-The-Maze\Assets\Script\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SnakeBodySteering.cs" Line="9" Column="22" />
+      <File FileName="Assets\Scripts\Steering.cs" Line="10" Column="1" />
+      <File FileName="Assets\Scripts\SnakeHeadSteering.cs" Line="11" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
